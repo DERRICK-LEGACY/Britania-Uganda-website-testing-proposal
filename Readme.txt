@@ -1,6 +1,5 @@
 Thanks for downloading this template!
 
-Template Name: UpConstruction
-Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Name: Britania Uganda
+URL: https://britania Uganda.com/
+Author: NFITUMUKIZA DERRICK
